@@ -19,7 +19,7 @@
              },
             "ANTI_BOT": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
             "ANTI_SPAM": {
@@ -38,18 +38,18 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Arnold 🤠❤Monkey D luffy" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "22899581320" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -80,12 +80,12 @@
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© by Arnold 🤠❤Monkey D luffy" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲Arnold 🤠❤Monkey D luffy" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -156,7 +156,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "FR" ,
             "required": true
       },
          "HEROKU": {
